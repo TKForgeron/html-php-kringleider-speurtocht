@@ -23,10 +23,10 @@ body, html {height: 100%}
   </div>
   <div class="w3-display-middle w3-center">
     <div class="w3-hide-small">
-        <b><h1 class="w3-jumbo w3-animate-top">Stationsstraat 28, Amersfoort</h1></b>
+        <b><h1 class="w3-jumbo w3-animate-top">PUT ADDRESS HERE</h1></b>
     </div>
     <div class="w3-hide-medium w3-hide-large">
-        <b><h1 class="w3-xxxlarge w3-animate-top">Stationsstraat 28, Amersfoort</h1></b>
+        <b><h1 class="w3-xxxlarge w3-animate-top">PUT ADDRESS HERE</h1></b>
     </div>
     <a href="../" class="w3-btn w3-black"><i class="fa fa-undo"></i></a>
   </div>
